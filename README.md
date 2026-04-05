@@ -1,10 +1,10 @@
 # quiet-dark.ghostty
 
-A Ghostty terminal theme based on [quiet.vim](https://github.com/vim/colorschemes/blob/master/colors/quiet.vim).
+A Ghostty terminal theme based on [quiet.vim](https://github.com/vim/colorschemes/blob/master/colors/quiet.vim) by [Maxence Weynans](https://github.com/neutaaaaan).
 
 ## Preview
 
-[screenshot of Neovim inside Ghostty with the theme](demo.png)
+![Ghostty with quiet-dark theme](demo.png)
 
 ## Install
 ```sh
@@ -13,6 +13,8 @@ curl -o ~/.config/ghostty/themes/quiet-dark https://raw.githubusercontent.com/ci
 ```
 
 Then add to `~/.config/ghostty/config`:
-```
 theme = quiet-dark
-```
+
+## Credits
+
+Shout out to [Maxence Weynans](https://github.com/neutaaaaan) for the original theme.
