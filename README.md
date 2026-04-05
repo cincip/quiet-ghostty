@@ -13,7 +13,9 @@ curl -o ~/.config/ghostty/themes/quiet-dark https://raw.githubusercontent.com/ci
 ```
 
 Then add to `~/.config/ghostty/config`:
+```
 theme = quiet-dark
+```
 
 ## Credits
 
